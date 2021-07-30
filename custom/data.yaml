@@ -1,0 +1,21 @@
+names:
+- policeCar
+- ambulance
+- specialCar(towTruck, dirtWagon, Crane..)
+- Adult(elderly)
+- child
+- bicycle
+- Motorcycle
+- kickboard / wheelchair .. 
+- bus(Small, Large)
+- sedan
+- schoolBus(Small, Large)
+- Truck
+- SUV/van
+nc: 13
+
+test: ''
+
+train: "custom_data/yolov5_dataset/resized_images/train/"
+
+val: "custom_data/yolov5_dataset/resized_images/val/"
